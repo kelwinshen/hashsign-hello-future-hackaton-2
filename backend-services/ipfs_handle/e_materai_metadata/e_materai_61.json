@@ -1,0 +1,15 @@
+{
+    "name": "e-Materai #61",
+    "description": "An official digital stamp of Indonesia.",
+    "image": "ipfs://bafkreiglkbptfzquzh4vs3gsf5ijutaiq5xrnhhe5ufnbkajvamw6gfeo4",
+    "attributes": [
+        {
+            "trait_type": "Issuer",
+            "value": "Government of Indonesia"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Official Document"
+        }
+    ]
+}

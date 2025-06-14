@@ -1,0 +1,20 @@
+{
+  "name": "hedera-backend-services",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.11.1",
+    "@hashgraph/sdk": "^2.55.1",
+    "@openzeppelin/contracts": "^5.0.1",
+    "dotenv": "^16.4.7",
+    "ethers": "^5.7.2"
+  }
+}

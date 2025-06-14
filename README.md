@@ -22,7 +22,7 @@ npm install
 
 Start the development server with Vite:
 
------------------------x-
+------------------------
 npm run dev
 ------------------------
 
